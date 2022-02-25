@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
+### I'm Chosukhyun
+🌱 I’m currently learning Python. It's fun!
+
+#### Welcome!!😄
+▶▶ [My Blog](https://github.com/Chosukhyun/Chosukhyun)
+
+(![고양이 나온다](https://user-images.githubusercontent.com/100225735/155640193-b659758d-5444-474a-8e1d-df7ca2bd0276.gif)
+
+
 
 <!--
 **Chosukhyun/Chosukhyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
