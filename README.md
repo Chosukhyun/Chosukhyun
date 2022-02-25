@@ -3,7 +3,7 @@
 🌱 I’m currently learning Python. It's fun!
 
 #### Welcome!!😄
-▶▶ [My Blog](https://github.com/Chosukhyun/Chosukhyun)
+▶▶ [My Blog](https://github.com/Chosukhyun)
 
 (![고양이 나온다](https://user-images.githubusercontent.com/100225735/155640193-b659758d-5444-474a-8e1d-df7ca2bd0276.gif)
 
