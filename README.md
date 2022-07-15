@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ### I'm Chosukhyun
-🌱 I’m currently learning Python. It's fun!
+🌱 I’m currently learning Python, Machine Learning. It's fun!
 
 #### Welcome!!😄
 ▶▶ [My Blog](https://github.com/Chosukhyun)
